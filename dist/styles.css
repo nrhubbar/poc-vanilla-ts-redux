@@ -1,0 +1,16 @@
+
+body {
+    font-family: Geneva, Tahoma, sans-serif;
+    width: 16rem;
+}
+
+h1 {
+    size: 4rem;
+    text-align: center;
+}
+
+#update-count-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
